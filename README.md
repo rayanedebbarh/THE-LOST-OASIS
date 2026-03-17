@@ -24,6 +24,14 @@
 
 ---
 
+## 🗺️ Map Overview
+
+| Isometric View | Top View |
+|----------------|----------|
+| ![Map Isometric](screenshots/map_iso.png) | ![Map Top](screenshots/map_top.png) |
+
+---
+
 ## ✨ Features
 
 - 🌵 **Fully sculpted desert terrain** — procedurally generated sand dunes using Roblox's Terrain Editor
