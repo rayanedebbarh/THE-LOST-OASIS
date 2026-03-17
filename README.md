@@ -59,6 +59,7 @@
 - Used the **Terrain Editor's Sea Level tool** to place oasis water pools naturally within desert depressions
 - Solved a **mobile spawning bug** by fine-tuning SpawnLocation Y-position to align with terrain surface
 - Implemented a **Lua respawn script** to handle terrain loading differences between PC and mobile
+- Added **ambient sandstorm music** via SoundService with looped playback for an immersive desert atmosphere
 - Designed custom **game icon and thumbnail** assets at 512×512 and 1024×576 resolutions
 
 ---
