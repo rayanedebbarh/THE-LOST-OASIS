@@ -70,14 +70,13 @@
 The Lost Oasis (Roblox Studio)
 ├── Workspace
 │   ├── Terrain          # Desert biome with sand material
+│   ├── Sound            # Looping ambient sandstorm music
 │   ├── SpawnLocation    # Player spawn point
 │   ├── Cactus (x20)    # Desert cactus models
 │   ├── Hut (x2)        # Explorable desert structures
 │   └── Parts            # Water/oasis elements
-├── ServerScriptService
-│   └── Script           # Spawn and game logic
-└── SoundService
-    └── Sound            # Looping background music
+└── ServerScriptService
+    └── Script           # Spawn and game logic
 ```
 
 ---
