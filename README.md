@@ -37,7 +37,7 @@
 - 🌵 **Fully sculpted desert terrain** — procedurally generated sand dunes using Roblox's Terrain Editor
 - 💧 **Oasis water pools** — scattered naturally across the desert landscape
 - 🏚️ **Desert hut structures** — explorable buildings placed throughout the world
-- 🎵 **Epic adventure music** — looping Arabian-style background soundtrack
+- 🎵 **Ambient desert music** — looping sand storm atmospheric soundtrack
 - 📱 **Cross-platform** — fully playable on both PC and mobile devices
 - ☀️ **Immersive atmosphere** — dynamic lighting and fog for a realistic desert feel
 
