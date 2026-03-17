@@ -83,7 +83,7 @@ The Lost Oasis (Roblox Studio)
 
 ## 👨‍💻 Developer
 
-**Rayane** — [@rayane_drh1](https://www.roblox.com/users/YOUR_USER_ID/profile)
+**Rayane** — [@rayane_drh1](https://www.roblox.com/users/9321040316/profile)
 
 Junior Computer Science student at Alma College  
 Built as part of **CSC-355: Game Engine Fundamentals**
