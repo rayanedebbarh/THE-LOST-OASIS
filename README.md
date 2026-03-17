@@ -20,7 +20,7 @@
 
 **Mobile:**
 
-<img src="screenshots/mobile.png" width="350"/>
+<img src="screenshots/mobile.png" width="300"/>
 
 ---
 
