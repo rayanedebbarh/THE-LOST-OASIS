@@ -2,7 +2,7 @@
 
 ![The Lost Oasis Banner](screenshots/thumbnail.png)
 
-> A vast desert exploration experience built in Roblox Studio — discover ancient oases, roam endless sand dunes, and uncover the secrets of a lost world.
+> A vast desert exploration experience built in Roblox Studio; discover ancient oases, roam endless sand dunes, and uncover the secrets of a lost world.
 
 ---
 
@@ -20,7 +20,7 @@
 
 **Mobile:**
 
-![Mobile](screenshots/mobile.png)
+<img src="screenshots/mobile.png" width="350"/>
 
 ---
 
